@@ -14,3 +14,25 @@ http://moonstalker.xyz:8080/movie/elmatatan/5oIpJXWr5h/1175158.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Shrek 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11K03KebrdD8nUlGFJX3rSL3KHK.jpg" group-title="Películas",Shrek 4
 http://moonstalker.xyz:8080/movie/elmatatan/5oIpJXWr5h/90472.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0M2OowRDHtAOcHMS3s5nNWuGii.jpg" group-title="Películas",Madagascar
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6813.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uL5unGWKgBnaLdJLRjqcZjMr3I.jpg" group-title="Películas",Madagascar 2
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6814.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fKTIecTVNURB6CRFjYMypggRL2.jpg" group-title="Películas",Madagascar 3
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6815.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzOERnvuM3c2mbAvCu5pw1QIaZX.jpg" group-title="Películas",Kung Fu Panda 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6785.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JsMPU79GmY9dKBahXxq6OefPmN.jpg" group-title="Películas",Kung Fu Panda 2 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6786.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxc0zzIZuq3rh7hJvYNCWTJAkBd.jpg" group-title="Películas",Kung Fu Panda 3 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6676.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title="Películas",Kung Fu Panda 4
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/236088.mkv
+
