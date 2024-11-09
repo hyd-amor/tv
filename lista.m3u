@@ -171,44 +171,59 @@ http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249677.mkv
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Blanca Nieves" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdA4lphQwywsPcEKj5sgQ9QSR55.jpg" group-title="Disney dulce (Princesas)",Blanca Nieves
+#EXTINF:-1 tvg-id="" tvg-name="Blanca Nieves" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdA4lphQwywsPcEKj5sgQ9QSR55.jpg" group-title="Disney Dulce",Blanca Nieves
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249599.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La cenicienta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kqNkGE5PFt4EOloc90LMUoXqxb.jpg" group-title="Disney dulce (Princesas)",La cenicienta 
+#EXTINF:-1 tvg-id="" tvg-name="La cenicienta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kqNkGE5PFt4EOloc90LMUoXqxb.jpg" group-title="Disney Dulce",La cenicienta 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249564.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La Bella y La Bestia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg" group-title="Disney dulce (Princesas)",La Bella y La Bestia 
+#EXTINF:-1 tvg-id="" tvg-name="La Bella y La Bestia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg" group-title="Disney Dulce",La Bella y La Bestia 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249560.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La princesa y el sapo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" group-title="Disney dulce (Princesas)",La princesa y el sapo
+#EXTINF:-1 tvg-id="" tvg-name="La princesa y el sapo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" group-title="Disney Dulce",La princesa y el sapo
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/246161.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mulán" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/towmTJ0k29quKI9IDnOZKAAtQx.jpg" group-title="Disney dulce (Princesas)",Mulán
+#EXTINF:-1 tvg-id="" tvg-name="Mulán" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/towmTJ0k29quKI9IDnOZKAAtQx.jpg" group-title="Disney Dulce",Mulán
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249584.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Mulán 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQbZiWh4ZDSd2co0FMz8U3LGvL7.jpg" group-title="Disney dulce (Princesas)",Mulán 2
+#EXTINF:-1 tvg-id="" tvg-name="Mulán 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQbZiWh4ZDSd2co0FMz8U3LGvL7.jpg" group-title="Disney Dulce",Mulán 2
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249585.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Pocahontas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="Disney dulce (Princesas)",Pocahontas
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="Disney Dulce",Pocahontas
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249592.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La bella durmiente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7aeSm6RgJySwelL5tdu1TCclZh.jpg" group-title="Disney dulce (Princesas)",La bella durmiente 
+#EXTINF:-1 tvg-id="" tvg-name="La bella durmiente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7aeSm6RgJySwelL5tdu1TCclZh.jpg" group-title="Disney Dulce",La bella durmiente 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249598.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La Sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg" group-title="Disney dulce (Princesas)",La Sirenita 
+#EXTINF:-1 tvg-id="" tvg-name="La Sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg" group-title="Disney Dulce",La Sirenita 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249615.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La Sirenita 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m6JsSmBa4X1Kp35YW3QPbMpByF.jpg" group-title="Disney dulce (Princesas)",La Sirenita 2 
+#EXTINF:-1 tvg-id="" tvg-name="La Sirenita 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m6JsSmBa4X1Kp35YW3QPbMpByF.jpg" group-title="Disney Dulce",La Sirenita 2 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249617.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Frozen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKhrHvzQDUHQP5zd5HFeqF2BCN.jpg" group-title="Disney dulce (Princesas)",Frozen 
+#EXTINF:-1 tvg-id="" tvg-name="Frozen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKhrHvzQDUHQP5zd5HFeqF2BCN.jpg" group-title="Disney Dulce",Frozen 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249643.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Frozen 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="Disney dulce (Princesas)",Frozen 2 
+#EXTINF:-1 tvg-id="" tvg-name="Frozen 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="Disney Dulce",Frozen 2 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249644.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Enredados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg" group-title="Disney dulce (Princesas)",Enredados
+#EXTINF:-1 tvg-id="" tvg-name="Enredados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg" group-title="Disney Dulce",Enredados
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249660.mkv
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg" group-title="Marvel",
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249660.mkv
+
 
 
 
