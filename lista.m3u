@@ -221,13 +221,70 @@ http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249660.mkv
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg" group-title="Marvel",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg" group-title="Marvel",Thor (2011)
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244766.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Thor: un mundo oscuro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg" group-title="Marvel",Thor: un mundo oscuro (2013)
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244767.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg" group-title="Marvel",Thor: Ragnarok (2017)
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244768.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Amor y Trueno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg" group-title="Marvel",Thor: Amor y Trueno (2022)
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244769.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El hombre araña (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" group-title="Marvel",El hombre araña (2002)
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244751.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El hombre araña 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9R3lUNzpHnivyGpKwEPUNGdmmH.jpg" group-title="Marvel",El hombre araña 2 (2004)
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244752.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El hombre araña 3 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkuQzlShE2uzJcsZYU4zBI4VQZP.jpg" group-title="Marvel",El hombre araña 3 (2007)
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244753.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: No Way Home" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miZFgV81xG324rpUknQX8dtXuBl.jpg" group-title="Marvel",Spider-Man: No Way Home 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/2993.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Iron man" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg" group-title="Marvel",Iron man 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244760.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Iron man 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg" group-title="Marvel",Iron man 2
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244761.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Iron man 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg" group-title="Marvel",Iron man 3
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244762.mp4
 
 
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la piedra filosofal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roKMM6S9DRGFNujmvqlk8l5YbN3.jpg" group-title="Pelis varias (harry P. matilda, etc)",Harry Potter y la piedra filosofal 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6451.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la cámara secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nvGqfZE3yrsqehpF107byUdUSq.jpg" group-title="Pelis varias (harry P. matilda, etc)",Harry Potter y la cámara secreta  
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6452.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el prisionero de Azkaban" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBph7rrwtxUuDxyZVDQtbP2H0sM.jpg" group-title="Pelis varias (harry P. matilda, etc)",Harry Potter y el prisionero de Azkaban  
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6453.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cáliz de fuego" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYPh29MkZTWewIL5adMwj5stqgA.jpg" group-title="Pelis varias (harry P. matilda, etc)",Harry Potter y el cáliz de fuego  
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6454.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la orden del Fénix" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYUjcTKDXOHJOlilNK953m8zJww.jpg" group-title="Pelis varias (harry P. matilda, etc)",Harry Potter y la orden del Fénix  
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6455.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del príncipe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg" group-title="Pelis varias (harry P. matilda, etc)",Harry Potter y el misterio del príncipe 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6456.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte (1ª parte)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6wsYKdXERaXRdByPsI2O9rn20b.jpg" group-title="Pelis varias (harry P. matilda, etc)",Harry Potter y las reliquias de la muerte (1ª parte)
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6457.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte: Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjKy2wSlDiLLLIkM7tHnxsXG8Tp.jpg" group-title="Pelis varias (harry P. matilda, etc)",Harry Potter y las reliquias de la muerte: Parte 2
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6458.mp4
 
 
 
