@@ -101,7 +101,7 @@ http://moonstalker.xyz:8080/movie/elmatatan/5oIpJXWr5h/89007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Valiente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVt6IKkzKqNs80TX0JVan6sjH5Z.jpg" group-title="Películas Disney animadas",Valiente
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/246164.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Monsters, Inc." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3SgHEb5ej2MioGfYLrZVshF909.jpg" group-title="Películas Disney animadas",Monsters, Inc. 
+#EXTINF:-1 tvg-id="" tvg-name="Monsters, Inc." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3SgHEb5ej2MioGfYLrZVshF909.jpg" group-title="Películas Disney animadas",Monsters Inc. 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/244449.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Monsters University" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rLfeHGIyDEQsqR22iajGSLFNME.jpg" group-title="Películas Disney animadas",Monsters University  
@@ -132,9 +132,6 @@ http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249608.mkv
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249610.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="El rey león" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg" group-title="Películas Disney animadas",El rey león 
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249612.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="El rey león 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdD5VcvTD43p048ueswYdgLJZh.jpg" group-title="Películas Disney animadas",El rey león 2 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249612.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="El rey león 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdD5VcvTD43p048ueswYdgLJZh.jpg" group-title="Películas Disney animadas",El rey león 2 
@@ -285,6 +282,25 @@ http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6457.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte: Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjKy2wSlDiLLLIkM7tHnxsXG8Tp.jpg" group-title="Pelis varias (harry P. matilda, etc)",Harry Potter y las reliquias de la muerte: Parte 2
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6458.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte: Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjKy2wSlDiLLLIkM7tHnxsXG8Tp.jpg" group-title="Pelis varias (harry P. matilda, etc)",Harry Potter y las reliquias de la muerte: Parte 2
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6458.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Matilda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icsytUzUc9f97a9SdafFG0eqijR.jpg" group-title="Pelis varias (harry P. matilda, etc)",Matilda
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/6816.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Juego de gemelas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JyIUavN6byTNKjWXupCCvRljRF.jpg" group-title="Pelis varias (harry P. matilda, etc)",Juego de gemelas 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/7221.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Percy Jackson" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piKMSnCCT0oqLZ9GWAALXX9e1qh.jpg" group-title="Pelis varias (harry P. matilda, etc)",Percy Jackson 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/4027.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="narnia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnyDtI6aMZ2TtAjrmNsKBIeoea9.jpg" group-title="Pelis varias (harry P. matilda, etc)",Las crónicas de Narnia: El león, la bruja y el ropero 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/3791.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="narnia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3X3ss0pEy1CntvxbgDYZD3XFa6.jpg" group-title="Pelis varias (harry P. matilda, etc)",Las crónicas de Narnia: El príncipe Caspian 
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/3959.mkv
+
 
 
 
