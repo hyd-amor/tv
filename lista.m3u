@@ -8,10 +8,10 @@ https://www.dailymotion.com/video/x9atij2
 #EXTINF:-1 tvg-id="u" tvg-name="Shrek" tvg-logo="https://i.ibb.co/yFpKs7x/lertra-u.png" group-title="ver",
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
-#EXTINF:-1 tvg-id="i" tvg-name="Shrek" tvg-logo="https://w7.pngwing.com/pngs/213/312/png-transparent-letter-alphabet-w-r-miscellaneous-material-a-thumbnail.png" group-title="ver",
+#EXTINF:-1 tvg-id="i" tvg-name="Shrek" tvg-logo="https://i.ibb.co/Kb9cC9B/lertra-I.png" group-title="ver",
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="https://e7.pngegg.com/pngimages/271/902/png-clipart-block-letters-alphabet-letter-case-stencil-english-flag-emoji-angle-text.png" group-title="ver",
+#EXTINF:-1 tvg-id="E" tvg-name="Shrek" tvg-logo="https://i.ibb.co/SvNDYFv/lertra-E.png" group-title="ver",
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="https://e7.pngegg.com/pngimages/251/239/png-clipart-logo-design-rebranding-typography-letter-a-angle-text.png" group-title="ver",
