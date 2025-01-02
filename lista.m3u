@@ -88,7 +88,8 @@ https://www.dailymotion.com/video/x9atij2
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Yo Soy Betty la Fea" tvg-logo="https://m.media-amazon.com/images/I/71221krCHML.jpg" group-title="Canales 24/7",Yo Soy Betty la Fea 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1202921
 
 #EXTINF:-1 tvg-id="flor" tvg-name="gran hermano" tvg-logo="https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/05/28/665638f55d512.r_d.1920-1080-0.jpeg" group-title="Canales 24/7",Gran Hermano 24 Hrs
 http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1818974
@@ -125,6 +126,50 @@ http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1723069
 
 #EXTINF:-1 tvg-id="flor" tvg-name="Hbo Max La Casa Del Dragón" tvg-logo="https://brandemia.org/contenido/subidas/2023/04/logo-max-no-hbo-1200x670.jpg" group-title="Canales 24/7",Hbo Max La Casa Del Dragón 24/7
 http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1723067
+
+#EXTINF:-1 tvg-id="flor" tvg-name="Hbo Max The Last of Us" tvg-logo="https://brandemia.org/contenido/subidas/2023/04/logo-max-no-hbo-1200x670.jpg" group-title="Canales 24/7",Hbo Max The Last of Us 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1723065
+
+#EXTINF:-1 tvg-id="flor" tvg-name="Hbo Max Euphoria S01" tvg-logo="https://brandemia.org/contenido/subidas/2023/04/logo-max-no-hbo-1200x670.jpg" group-title="Canales 24/7",Hbo Max Euphoria S01 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1723035
+
+EXTINF:-1 tvg-id="flor" tvg-name="Hbo Max Euphoria S02" tvg-logo="https://brandemia.org/contenido/subidas/2023/04/logo-max-no-hbo-1200x670.jpg" group-title="Canales 24/7",Hbo Max Euphoria S02 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1723034
+
+#EXTINF:-1 tvg-id="flor" tvg-name="Prime video Maradona Sueño Bendito" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/019/614/399/small_2x/amazon-logo-amazon-icon-free-free-vector.jpg" group-title="Canales 24/7",Prime video Maradona Sueño Bendito
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1721668
+
+EXTINF:-1 tvg-id="flor" tvg-name="Netflix Merlina" tvg-logo="https://i.pinimg.com/736x/1f/25/de/1f25de5ef78dd64d47c2e047e491586b.jpg" group-title="Canales 24/7",Netflix Merlina 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1727799
+
+EXTINF:-1 tvg-id="flor" tvg-name="Netflix Gambito De Dama" tvg-logo="https://i.pinimg.com/736x/1f/25/de/1f25de5ef78dd64d47c2e047e491586b.jpg" group-title="Canales 24/7",Netflix Gambito De Dama 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1727798
+
+EXTINF:-1 tvg-id="flor" tvg-name="Netflix Stranger Things" tvg-logo="https://i.pinimg.com/736x/1f/25/de/1f25de5ef78dd64d47c2e047e491586b.jpg" group-title="Canales 24/7",Netflix Stranger Things 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1727796
+
+EXTINF:-1 tvg-id="flor" tvg-name="Netflix Sex Education" tvg-logo="https://i.pinimg.com/736x/1f/25/de/1f25de5ef78dd64d47c2e047e491586b.jpg" group-title="Canales 24/7",Netflix Sex Education 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1726869
+
+#EXTINF:-1 tvg-id="" tvg-name="Cake Boss" tvg-logo="https://www.dvdland.com.au/product_images/c/914/cakeboss__48678_zoom.jpg" group-title="Canales 24/7",Cake Boss 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1654719
+
+#EXTINF:-1 tvg-id="" tvg-name="Exponiendo Infieles" tvg-logo="" group-title="Canales 24/7",Exponiendo Infieles 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1605664
+
+#EXTINF:-1 tvg-id="" tvg-name="13 Reasons Why" tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/12/38/418464.jpg" group-title="Canales 24/7",13 Reasons Why 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1583945
+
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjg2ZjViMTktNWQ1Yy00ODZiLWE1OTgtNDY3MjI0OGUyNjNhXkEyXkFqcGdeQXVyNTk4NDI4NTE@._V1_.jpg" group-title="Canales 24/7",Ben 10 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1524623
+
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/94c9d519f34493415eed9b2f6a9d2bdb9a7a67202a7dbdf1b9bc85414efca758.jpg" group-title="Canales 24/7",Game of Thrones 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/18833
+
+#EXTINF:-1 tvg-id="" tvg-name="Rapidos y Furiosos" tvg-logo="https://www.gamerfocus.co/wp-content/uploads/2020/04/top-ff.jpg" group-title="Canales 24/7",Rapidos y Furiosos 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1369833
+
+
 
 
 
