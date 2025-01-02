@@ -14,21 +14,29 @@ http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 #EXTINF:-1 tvg-id="E" tvg-name="Shrek" tvg-logo="https://i.ibb.co/SvNDYFv/lertra-E.png" group-title="ver",
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="https://e7.pngegg.com/pngimages/251/239/png-clipart-logo-design-rebranding-typography-letter-a-angle-text.png" group-title="ver",
+#EXTINF:-1 tvg-id="R" tvg-name="Shrek" tvg-logo="https://i.ibb.co/K0bfNkK/lertra-R.png" group-title="ver",
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="https://w7.pngwing.com/pngs/976/438/png-transparent-letter-case-computer-icons-letter-m-miscellaneous-angle-text-thumbnail.png" group-title="ver",
+#EXTINF:-1 tvg-id="E" tvg-name="Shrek" tvg-logo="https://i.ibb.co/SvNDYFv/lertra-E.png" group-title="ver",
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="https://w7.pngwing.com/pngs/276/319/png-transparent-letter-case-o-alphabet-sans-serif-oak-miscellaneous-logo-number.png" group-title="ver",
+#EXTINF:-1 tvg-id="S" tvg-name="Shrek" tvg-logo="https://i.ibb.co/BfnwP5b/lertra-S.png" group-title="ver",
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/187/508/non_2x/heart-png.png" group-title="ver",
+#EXTINF:-1 tvg-id="-" tvg-name="Shrek" tvg-logo="https://i.ibb.co/ZJs2bnZ/lertra-GUION.png" group-title="ver",
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="https://w7.pngwing.com/pngs/623/105/png-transparent-common-sunflower-girasoles-3d-computer-graphics-orange-sunflower-thumbnail.png" group-title="ver",
+#EXTINF:-1 tvg-id="S" tvg-name="Shrek" tvg-logo="https://i.ibb.co/BfnwP5b/lertra-S.png" group-title="ver",
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
+#EXTINF:-1 tvg-id="E" tvg-name="Shrek" tvg-logo="https://i.ibb.co/SvNDYFv/lertra-E.png" group-title="ver",
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
+
+#EXTINF:-1 tvg-id="R" tvg-name="Shrek" tvg-logo="https://i.ibb.co/K0bfNkK/lertra-R.png" group-title="ver",
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
+
+#EXTINF:-1 tvg-id="-" tvg-name="Shrek" tvg-logo="https://i.ibb.co/ZJs2bnZ/lertra-GUION.png" group-title="ver",
+http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
 
 
