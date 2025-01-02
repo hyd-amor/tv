@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="flor" tvg-name="Shrek" tvg-logo="https://i.ibb.co/w08m9ZJ/flor.png" group-title="ver",
 https://www.dailymotion.com/video/x9atij2
 
+#EXTINF:-1 tvg-id="cora" tvg-name="Shrek" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/187/511/non_2x/heart-png.png" group-title="ver",
+https://www.dailymotion.com/video/x9atij2
+
 #EXTINF:-1 tvg-id="¿" tvg-name="Shrek" tvg-logo="https://i.ibb.co/Sy8Q237/lertra.png" group-title="ver",
 https://www.dailymotion.com/video/x9atij2
 
@@ -68,6 +71,9 @@ http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
 
 #EXTINF:-1 tvg-id="?" tvg-name="Shrek" tvg-logo="https://i.ibb.co/VLm98wD/lertra-INTERROGACION-2.png" group-title="ver",
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
+
+#EXTINF:-1 tvg-id="cora" tvg-name="Shrek" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/187/511/non_2x/heart-png.png" group-title="ver",
+https://www.dailymotion.com/video/x9atij2
 
 #EXTINF:-1 tvg-id="flor" tvg-name="Shrek" tvg-logo="https://i.ibb.co/w08m9ZJ/flor.png" group-title="ver",
 https://www.dailymotion.com/video/x9atij2
