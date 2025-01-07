@@ -1,82 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="flor" tvg-name="Shrek" tvg-logo="https://i.ibb.co/w08m9ZJ/flor.png" group-title="Si o no",
-https://www.dailymotion.com/video/x9atij2
 
-#EXTINF:-1 tvg-id="cora" tvg-name="Shrek" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/187/511/non_2x/heart-png.png" group-title="Si o no",
-https://www.dailymotion.com/video/x9atij2
-
-#EXTINF:-1 tvg-id="¿" tvg-name="Shrek" tvg-logo="https://i.ibb.co/Sy8Q237/lertra.png" group-title="Si o no",
-https://www.dailymotion.com/video/x9atij2
-
-#EXTINF:-1 tvg-id="q" tvg-name="Shrek" tvg-logo="https://i.ibb.co/3dj1Ljh/lertra-q-3.png" group-title="Si o no",
-https://www.dailymotion.com/video/x9atij2
-
-#EXTINF:-1 tvg-id="u" tvg-name="Shrek" tvg-logo="https://i.ibb.co/yFpKs7x/lertra-u.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="i" tvg-name="Shrek" tvg-logo="https://i.ibb.co/Kb9cC9B/lertra-I.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="E" tvg-name="Shrek" tvg-logo="https://i.ibb.co/SvNDYFv/lertra-E.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="R" tvg-name="Shrek" tvg-logo="https://i.ibb.co/K0bfNkK/lertra-R.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="E" tvg-name="Shrek" tvg-logo="https://i.ibb.co/SvNDYFv/lertra-E.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="S" tvg-name="Shrek" tvg-logo="https://i.ibb.co/BfnwP5b/lertra-S.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="-" tvg-name="Shrek" tvg-logo="https://i.ibb.co/ZJs2bnZ/lertra-GUION.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="S" tvg-name="Shrek" tvg-logo="https://i.ibb.co/BfnwP5b/lertra-S.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="E" tvg-name="Shrek" tvg-logo="https://i.ibb.co/SvNDYFv/lertra-E.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="R" tvg-name="Shrek" tvg-logo="https://i.ibb.co/K0bfNkK/lertra-R.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="-" tvg-name="Shrek" tvg-logo="https://i.ibb.co/ZJs2bnZ/lertra-GUION.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="M" tvg-name="Shrek" tvg-logo="https://i.ibb.co/M5Z56L5/lertra-M.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="I" tvg-name="Shrek" tvg-logo="https://i.ibb.co/Kb9cC9B/lertra-I.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="-" tvg-name="Shrek" tvg-logo="https://i.ibb.co/ZJs2bnZ/lertra-GUION.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="N" tvg-name="Shrek" tvg-logo="https://i.ibb.co/7KdqG4P/lertra-N.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="O" tvg-name="Shrek" tvg-logo="https://i.ibb.co/Px0dzsw/lertra-O.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="V" tvg-name="Shrek" tvg-logo="https://i.ibb.co/GkMVm6C/lertra-V.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="I" tvg-name="Shrek" tvg-logo="https://i.ibb.co/Kb9cC9B/lertra-I.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="A" tvg-name="Shrek" tvg-logo="https://i.ibb.co/8rwCBz6/lertra-A.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="?" tvg-name="Shrek" tvg-logo="https://i.ibb.co/VLm98wD/lertra-INTERROGACION-2.png" group-title="Si o no",
-http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357.mp4
-
-#EXTINF:-1 tvg-id="cora" tvg-name="Shrek" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/187/511/non_2x/heart-png.png" group-title="Si o no",
-https://www.dailymotion.com/video/x9atij2
-
-#EXTINF:-1 tvg-id="flor" tvg-name="Shrek" tvg-logo="https://i.ibb.co/w08m9ZJ/flor.png" group-title="Si o no",
-https://www.dailymotion.com/video/x9atij2
 
 
 
@@ -376,40 +300,40 @@ http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249677.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Blanca Nieves" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdA4lphQwywsPcEKj5sgQ9QSR55.jpg" group-title="Princesas para mi princesa",Blanca Nieves
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249599.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La cenicienta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kqNkGE5PFt4EOloc90LMUoXqxb.jpg" group-title="Princesas para mi princesa",La cenicienta 
+#EXTINF:-1 tvg-id="" tvg-name="La cenicienta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kqNkGE5PFt4EOloc90LMUoXqxb.jpg" group-title="Princesas",La cenicienta 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249564.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La Bella y La Bestia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg" group-title="Princesas para mi princesa",La Bella y La Bestia 
+#EXTINF:-1 tvg-id="" tvg-name="La Bella y La Bestia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg" group-title="Princesas",La Bella y La Bestia 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249560.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La princesa y el sapo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" group-title="Princesas para mi princesa",La princesa y el sapo
+#EXTINF:-1 tvg-id="" tvg-name="La princesa y el sapo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" group-title="Princesas",La princesa y el sapo
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/246161.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mulán" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/towmTJ0k29quKI9IDnOZKAAtQx.jpg" group-title="Princesas para mi princesa",Mulán
+#EXTINF:-1 tvg-id="" tvg-name="Mulán" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/towmTJ0k29quKI9IDnOZKAAtQx.jpg" group-title="Princesas",Mulán
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249584.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Mulán 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQbZiWh4ZDSd2co0FMz8U3LGvL7.jpg" group-title="Princesas para mi princesa",Mulán 2
+#EXTINF:-1 tvg-id="" tvg-name="Mulán 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQbZiWh4ZDSd2co0FMz8U3LGvL7.jpg" group-title="Princesas",Mulán 2
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249585.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Pocahontas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="Princesas para mi princesa",Pocahontas
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="Princesas",Pocahontas
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249592.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La bella durmiente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7aeSm6RgJySwelL5tdu1TCclZh.jpg" group-title="Princesas para mi princesa",La bella durmiente 
+#EXTINF:-1 tvg-id="" tvg-name="La bella durmiente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7aeSm6RgJySwelL5tdu1TCclZh.jpg" group-title="Princesas",La bella durmiente 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249598.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La Sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg" group-title="Princesas para mi princesa",La Sirenita 
+#EXTINF:-1 tvg-id="" tvg-name="La Sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg" group-title="Princesas",La Sirenita 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249615.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La Sirenita 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m6JsSmBa4X1Kp35YW3QPbMpByF.jpg" group-title="Princesas para mi princesa",La Sirenita 2 
+#EXTINF:-1 tvg-id="" tvg-name="La Sirenita 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m6JsSmBa4X1Kp35YW3QPbMpByF.jpg" group-title="Princesas",La Sirenita 2 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249617.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Frozen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKhrHvzQDUHQP5zd5HFeqF2BCN.jpg" group-title="Princesas para mi princesa",Frozen 
+#EXTINF:-1 tvg-id="" tvg-name="Frozen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKhrHvzQDUHQP5zd5HFeqF2BCN.jpg" group-title="Princesas",Frozen 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249643.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Frozen 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="Princesas para mi princesa",Frozen 2 
+#EXTINF:-1 tvg-id="" tvg-name="Frozen 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="Princesas",Frozen 2 
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249644.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Enredados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg" group-title="Princesas para mi princesa",Enredados
+#EXTINF:-1 tvg-id="" tvg-name="Enredados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg" group-title="Princesas",Enredados
 http://ultrapremium.cloud:8080/movie/97160089tv2/swnh6357/249660.mkv
 
 
